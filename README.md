@@ -1,7 +1,8 @@
 # Separando Texto de Números
 Essa query tem o objetivo de separar textos de números para tratativa de campos com os dois tipos de dados.
 Fonte: https://www.youtube.com/watch?v=XAzkr3-Rfjg&t=903s
-DECLARE @STRING AS VARCHAR(MAX) = '22November202022';
+
+				DECLARE @STRING AS VARCHAR(MAX) = '22November202022';
 
 				WITH CHARACTER AS 
 				(
