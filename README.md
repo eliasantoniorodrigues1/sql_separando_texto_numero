@@ -1,0 +1,1 @@
+# sql_separando_texto_numero
